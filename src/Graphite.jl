@@ -1,5 +1,5 @@
 module Graphite
 
-# package code goes here
+include("core.jl")
 
 end # module
